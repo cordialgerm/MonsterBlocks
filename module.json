@@ -1,6 +1,6 @@
 {
-	"id": "monsterblock",
-	"title": "Monster Blocks",
+	"id": "monsterblock2",
+	"title": "Monster Blocks 2",
 	"description": "An NPC sheet designed to emulate standard 5e monster stat blocks as faithfully as possible.",
 	"author": "zeel",
 	"authors": [
@@ -61,13 +61,6 @@
 			"path": "lang/pt-BR.json"
 		}
 	],
-	"manifest": "https://github.com/zeel01/MonsterBlocks/releases/latest/download/module.json",
-	"url": "https://github.com/zeel01/MonsterBlocks",
-	"download": "https://github.com/zeel01/MonsterBlocks/releases/latest/download/monsterblock.zip",
-	"readme": "https://github.com/zeel01/MonsterBlocks/blob/master/readme.md",
-	"bugs": "https://github.com/zeel01/MonsterBlocks/issues",
-	"allowBugReporter": true,
-	"changelog": "https://github.com/zeel01/MonsterBlocks/releases",
 	"media": [
 		{
 			"type": "cover",
