@@ -1,7 +1,7 @@
 {
 	"id": "monsterblock",
 	"title": "Monster Blocks",
-	"description": "TEST. An NPC sheet designed to emulate standard 5e monster stat blocks as faithfully as possible.",
+	"description": "An NPC sheet designed to emulate standard 5e monster stat blocks as faithfully as possible.",
 	"author": "zeel",
 	"authors": [
 		{
@@ -11,7 +11,7 @@
 			"discord": "zeel#4200"
 		}
 	],
-	"version": "3.5.0",
+	"version": "3.4.0",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "11"
@@ -61,8 +61,9 @@
 			"path": "lang/pt-BR.json"
 		}
 	],
-	"manifest": "https://raw.githubusercontent.com/cordialgerm/MonsterBlocks/dnd5e-3.0.0/module.json",
+	"manifest": "https://github.com/cordialgerm/MonsterBlocks/releases/latest/download/module.json",
 	"url": "https://github.com/zeel01/MonsterBlocks",
+	"download": "https://github.com/cordialgerm/MonsterBlocks/releases/latest/download/monsterblock.zip",
 	"readme": "https://github.com/zeel01/MonsterBlocks/blob/master/readme.md",
 	"bugs": "https://github.com/zeel01/MonsterBlocks/issues",
 	"allowBugReporter": true,
