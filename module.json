@@ -61,9 +61,8 @@
 			"path": "lang/pt-BR.json"
 		}
 	],
-	"manifest": "https://github.com/zeel01/MonsterBlocks/releases/latest/download/module.json",
+	"manifest": "https://raw.githubusercontent.com/cordialgerm/MonsterBlocks/dnd5e-3.0.0/module.json",
 	"url": "https://github.com/zeel01/MonsterBlocks",
-	"download": "https://github.com/zeel01/MonsterBlocks/releases/latest/download/monsterblock.zip",
 	"readme": "https://github.com/zeel01/MonsterBlocks/blob/master/readme.md",
 	"bugs": "https://github.com/zeel01/MonsterBlocks/issues",
 	"allowBugReporter": true,
