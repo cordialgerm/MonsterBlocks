@@ -61,9 +61,9 @@
             "path": "lang/pt-BR.json"
         }
     ],
-    "manifest": "https://github.com/cordialgerm/MonsterBlocks/releases/download/v3.5.0/module.json",
+    "manifest": "https://github.com/cordialgerm/MonsterBlocks/releases/download/v3.5/module.json",
     "url": "https://github.com/zeel01/MonsterBlocks",
-    "download": "https://github.com/cordialgerm/MonsterBlocks/releases/download/v3.5.0/monsterblock.zip",
+    "download": "https://github.com/cordialgerm/MonsterBlocks/releases/download/v3.5/monsterblock.zip",
     "readme": "https://github.com/zeel01/MonsterBlocks/blob/master/readme.md",
     "bugs": "https://github.com/zeel01/MonsterBlocks/issues",
     "allowBugReporter": true,
